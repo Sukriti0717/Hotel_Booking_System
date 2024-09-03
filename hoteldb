@@ -1,0 +1,13 @@
+create database hoteldb;
+use hoteldb;
+
+create table booking_table(
+id int auto_increment primary key,
+room_no int not null,
+name varchar(150) not null,
+phone varchar(12) not null, 
+booking_time timestamp default current_timestamp
+);
+
+describe booking_table;
+select * from booking_table;
