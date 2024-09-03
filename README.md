@@ -19,9 +19,9 @@ The system offers the following features:
 - Connector: MySQL-connector-jar
 
 # Output
-<img width="410" alt="image" src="https://github.com/user-attachments/assets/44cb634d-d842-4f89-b840-010f16e6358f">
-<img width="559" alt="image" src="https://github.com/user-attachments/assets/8d5120ab-3466-4420-9a62-4b6544db6585">
-<img width="506" alt="image" src="https://github.com/user-attachments/assets/51f75452-3913-4297-8893-7632f90a6b71">
+- <img width="410" alt="image" src="https://github.com/user-attachments/assets/44cb634d-d842-4f89-b840-010f16e6358f">
+- <img width="559" alt="image" src="https://github.com/user-attachments/assets/8d5120ab-3466-4420-9a62-4b6544db6585">
+- <img width="506" alt="image" src="https://github.com/user-attachments/assets/51f75452-3913-4297-8893-7632f90a6b71">
 
 
 
